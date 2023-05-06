@@ -2,3 +2,4 @@ Installed Python
 Checked for version at C: python --version
 installed the virtual environment @C: path -m venv PythonDataAnalysis (where the PDA is the file name). you could alternatively use another name or create another virtual environment for say a different project
 also learnt how to cd to virtual environment and work inside it by using the command C: ..... ..>Scripts\activate. This allows you to work inside the virtual environment.
+Installed various loibraries: Numpy, Matplotlib, Scipy, Pandas, Plotly, Seaborn
